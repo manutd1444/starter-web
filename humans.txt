@@ -9,7 +9,7 @@
 
 # THANKS
 
-    <name>
+    Michalis Kallinikos
 
 # TECHNOLOGY COLOPHON
 
